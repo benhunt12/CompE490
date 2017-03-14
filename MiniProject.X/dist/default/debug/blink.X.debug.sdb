@@ -1,0 +1,49 @@
+[p LITE_MODE AUTOSTATIC PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F18324 ]
+[d frameptr 6 ]
+"63 C:\Users\benja\MPLABXProjects\blink.X\blink.c
+[v _main main `(v  1 e 1 0 ]
+"84
+[v _my_sir my_sir `II(v  1 e 1 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.41\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.41\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.41\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"867 C:\Program Files (x86)\Microchip\xc8\v1.41\include\pic16f18324.h
+[v _TMR0H TMR0H `VEuc  1 e 1 @22 ]
+"1120
+[v _T0CON0 T0CON0 `VEuc  1 e 1 @23 ]
+"1184
+[v _T0CON1 T0CON1 `VEuc  1 e 1 @24 ]
+"1596
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"11104
+[v _OSCCON1 OSCCON1 `VEuc  1 e 1 @2329 ]
+"11439
+[v _OSCFRQ OSCFRQ `VEuc  1 e 1 @2335 ]
+"18490
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"18660
+[v _LATC5 LATC5 `VEb  1 e 0 @2165 ]
+"19448
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"20040
+[v _TMR0IE TMR0IE `VEb  1 e 0 @1157 ]
+"20042
+[v _TMR0IF TMR0IF `VEb  1 e 0 @133 ]
+"63 C:\Users\benja\MPLABXProjects\blink.X\blink.c
+[v _main main `(v  1 e 1 0 ]
+{
+"82
+} 0
+"84
+[v _my_sir my_sir `II(v  1 e 1 0 ]
+{
+"95
+} 0
